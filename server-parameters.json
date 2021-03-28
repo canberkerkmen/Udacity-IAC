@@ -1,0 +1,22 @@
+[
+	{
+		"ParameterKey": "ProjectName",
+		"ParameterValue": "IACProject"
+	},
+	{
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-042e8287309f5df03"
+    },
+	{
+        "ParameterKey": "WebAppServersMinSize",
+        "ParameterValue": "2"
+    },
+	{
+        "ParameterKey": "WebAppServersMaxSize",
+        "ParameterValue": "4"
+    },
+	{
+        "ParameterKey": "KeyPairName",
+        "ParameterValue": "AWS_EC2"
+    }
+]
